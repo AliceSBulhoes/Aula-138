@@ -21,7 +21,7 @@ documentos = [
     ("Do começo ao fim horrivel","negativo")
     ("Cenas de ação muito bem animadas","positivo")
     ("Meu filme favorito","positivo")
-    ("Pior filme que vi na minha vida","negativo")7
+    ("Pior filme que vi na minha vida","negativo")
     ("Animação pessima","negativo")
     ("Trilha sonora inesquecível", "positivo")
     ("Atores não sabem atuar", "negativo")
